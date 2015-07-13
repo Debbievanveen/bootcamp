@@ -12,7 +12,7 @@
 
 <h2>Hi! <em>I am Debbie van Veen </em></h2>
 
-  <h3> This is my picture </h3>
+  <h3> This is my picture, made in 2013 </h3>
 
 <img src="https://pbs.twimg.com/profile_images/378800000370977865/2c8741518acd623b359211e9c924976a.jpeg" id="circle">
 
@@ -46,11 +46,12 @@
   <a href = "https://www.developmentbootcamp.nl"><img src="http://max10fit.com/site/wp-content/uploads/2015/04/bootcamp.jpg" class="bootcamp">
 </a>
 
+<div> And here I will mark the progress I have made so far </div>
 
   <div class ="pink">
 <P><h3>Contact Me! </h3></P>
 
-  Make sure to check out <a href="file:///Users/Debbievanveen/Documents/DevBootcamp15/Contact.html_DebbieBootcamp">my contact page </a> to get in touch!
+  Make sure to check out <a href="file:///Users/Debbievanveen/Documents/DevBootcamp15/Contact.html_DebbieBootcamp">my contact page </a> to get in touch! I am available on all channels :) 
 </div>
 <body>
 </html>
