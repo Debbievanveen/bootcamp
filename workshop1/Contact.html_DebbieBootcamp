@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Contact</title>
+</head>
+
+<style>
+h3 {
+color: pink;
+background: black;
+text-align: center;
+}
+
+h3.pink{
+  color: black;
+  background: pink;
+}
+
+
+div {
+  padding: 30px;
+  margin: 2px;
+  background-color: pink;
+  color: black;
+  width: 100px;
+  height: 100px;
+  text-align: center;
+  float: right;
+}
+
+
+div.one {
+  padding: 30px;
+  margin: 2px;
+  background-color: black;
+  color: pink;
+  width: 100px;
+  height: 100px;
+  text-align: center;
+}
+
+a {
+  color: green;
+}
+
+
+</div>
+
+</style>
+
+
+
+<body>
+  <h3>Contact me</h3>
+
+<header>
+
+<p> Please get in touch for more info or if you have any questions.
+<ul>
+<li> sending an <a href="mailto:van.veen.debbie@gmail.com"> e-mail</a></li>
+<li> reach me by telephone: 06-53584108 </li>
+<li> check out <a href="https://nl.linkedin.com/in/debbievanveen"> my linked-in page </a> </li>
+<li> send me <a href="https://twitter.com/DebbieSpringest"> a tweet </a> </li>
+<li> or add me on <a href="https://www.facebook.com/debbie.vanveen">facebook</a> </li>
+</ul>
+
+
+<h3 class="pink">Read more</h3>
+
+<div>
+<p>Background information</p>
+</div>
+
+<div class="one">
+<p> Interesting articles <p>
+</div class="one">
+
+<div>
+<p> Portfolio <p>
+</div>
+
+<div class="one">
+<p> Relevant links <p>
+</div>
